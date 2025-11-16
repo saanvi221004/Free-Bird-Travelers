@@ -1,3 +1,11 @@
+node_modules/
+public/
+Visily-Export_12-11-2025_09-55/
+.DS_Store
+*.zip
+*.mp4
+*.mov
+*.log
 # Dependencies
 /node_modules
 /.pnp
